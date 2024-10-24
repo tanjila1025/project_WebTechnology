@@ -1,0 +1,10 @@
+body {
+ background-color:azure
+} ;
+
+*{
+    color: #ffffffc6;
+}
+#Update{
+    display: none;
+}
